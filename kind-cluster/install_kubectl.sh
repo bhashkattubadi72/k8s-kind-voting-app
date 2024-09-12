@@ -15,3 +15,9 @@ kubectl version --client
 rm -f kubectl
 
 echo "kubectl installation complete."
+
+
+
+
+
+
